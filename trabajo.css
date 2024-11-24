@@ -1,0 +1,40 @@
+.encabezado{
+    background-color: blue;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 30px;
+
+}
+.bloque{
+    background-color: blue;
+    padding: 2%;
+    margin: 30%;
+    height: 30%;
+
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+}
+
+.secundario{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    height: 50%;
+
+}
